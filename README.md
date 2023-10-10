@@ -8,7 +8,7 @@ Eu trabalho com desenvolvimento web há mais de 12 anos com linguagens como Java
 
 📫 Você pode me encontrar em:
 
-* LinkedIn: [Tiago Sabadini](https://www.linkedin.com/in/tiago-sabadini/)
+* LinkedIn: [Tiago Sabadini](https://www.linkedin.com/in/tiagosabadini/)
 * Instagram: [@tiagosabadini](https://www.instagram.com/tiagosabadini/)
 
 <div align="center">
