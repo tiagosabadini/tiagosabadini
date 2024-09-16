@@ -1,7 +1,7 @@
 
 **Olá, meu nome é Tiago Sabadini**
 
-Eu trabalho com desenvolvimento web há mais de 15 anos e utilizo linguagens como Javascript, PHP e Python. E nessa trajetória já fundei duas empresas: uma software house e um marketplace, já liderei equipes de tecnologia, prestei consultoria para integrações, apoiei construção de orçamentos, elaboração de produtos e muitos mais.
+Eu trabalho com desenvolvimento web há mais de 17 anos e utilizo linguagens como Javascript, PHP e Python. E nessa trajetória já fundei três empresas: uma agência de sites, uma software house e a maior plataforma de carros de assinatura do Brasil, a byecar. Já liderei equipes de tecnologia, realizei consultorias técnicas, apoiei construção de orçamentos, elaboração de produtos etc.
 
 * Atualmente estou como CTO na [byecar](https://byecar.com.br)
 * Tenho um blog onde compartilho muito conteúdo sobre desenvolvimento, chamado [ItgoLabs](https://itgolabs.com)
