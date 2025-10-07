@@ -1,9 +1,11 @@
 
-**Olá, meu nome é Tiago Sabadini**
+**Hello, my name is Tiago Sabadini** 
 
-Eu trabalho com desenvolvimento web há mais de 17 anos e utilizo linguagens como Javascript, PHP e Python. E nessa trajetória já fundei três empresas: uma agência de sites, uma software house e a maior plataforma de carros de assinatura do Brasil, a byecar. Já liderei equipes de tecnologia, realizei consultorias técnicas, apoiei construção de orçamentos, elaboração de produtos etc.
+I’ve been working with web development for over 16 years, using languages such as JavaScript, PHP, and Python. Throughout this journey, I’ve founded three companies: a website agency, a software house, and the largest car subscription platform in Brazil, byecar. I’ve led technology teams, provided technical consulting, supported budget planning, and contributed to product development, among other roles.
 
-📫 Você pode me encontrar em:
+Recently, I’ve been studying Web3 with the goal of gaining new knowledge to build innovative tech-based businesses.
+
+📫 You can find me on:
 
 * LinkedIn: [Tiago Sabadini](https://www.linkedin.com/in/tiagosabadini/)
 * Instagram: [@tiagosabadini](https://www.instagram.com/tiagosabadini/)
