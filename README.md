@@ -1,9 +1,9 @@
 
 **Hello, my name is Tiago Sabadini** 
 
-I’ve been working with web development for over 16 years, using languages such as JavaScript, PHP, and Python. Throughout this journey, I’ve founded three companies: a website agency, a software house, and the largest car subscription platform in Brazil, byecar. I’ve led technology teams, provided technical consulting, supported budget planning, and contributed to product development, among other roles.
+I’ve been working with web development for over 15 years, using languages such as JavaScript, PHP, and Python. Throughout this journey, I’ve founded three companies: a website agency, a software house, and Brazil’s largest car subscription platform, byecar. I’ve led technology teams, provided technical consulting, supported budget planning, and contributed to product development, among other roles.
 
-Recently, I’ve been studying Web3 with the goal of gaining new knowledge to build innovative tech-based businesses.
+Today, I continue building products and technologies for the Brazilian market. If you’re looking for someone who knows how to build from start to finish, feel free to reach out here.
 
 📫 You can find me on:
 
